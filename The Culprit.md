@@ -2,7 +2,7 @@
 ### Description
 This knot I found in [this question](https://mathoverflow.net/q/53471) on [MathOverflow](https://mathoverflow.net/). Its diagram, as given in the question, is the following:
 
-![Figure 2 - The Culprit](https://i.sstatic.net/dtMM9.jpg)
+![A diagram of The Culprit.](https://i.sstatic.net/dtMM9.jpg)
 
 The Culprit is equivilant to the unknot.
 ### Notation
